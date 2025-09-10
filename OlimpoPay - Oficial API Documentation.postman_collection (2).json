@@ -1512,10 +1512,10 @@
       ]
     },
     {
-      "name": "Health",
+      "name": "Saúde da API",
       "item": [
         {
-          "name": "HealthCheck",
+          "name": "Verificar Saúde",
           "request": {
             "method": "GET",
             "header": [],
@@ -1528,7 +1528,7 @@
           "response": []
         },
         {
-          "name": "HealhPost",
+          "name": "Registrar Saúde",
           "request": {
             "method": "POST",
             "header": [
@@ -1558,7 +1558,7 @@
           "response": []
         }
       ],
-      "description": "Disponibiliza rotas para validação de saúde e disponibilidade da API. Utilize esses endpoints para monitorar se a API está operacional e respondendo corretamente."
+      "description": "### Monitoramento de Saúde da API\n\nEsta seção oferece endpoints para verificar a saúde e a disponibilidade da API OlimpoPay.\n\nUtilize esses endpoints para monitorar se a API está operacional, identificar possíveis instabilidades e garantir que os serviços estejam respondendo corretamente.\n\n**Principais usos:**\n- Monitoramento automatizado de disponibilidade (health check)\n- Diagnóstico rápido de falhas ou indisponibilidade\n- Integração com ferramentas de monitoramento e alertas\n\n> **Dica:** Recomendado integrar esses endpoints ao seu sistema de monitoramento para garantir alta disponibilidade e resposta rápida a incidentes."
     },
     {
       "name": "Boleto Bancário",
