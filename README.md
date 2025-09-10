@@ -1,3 +1,3 @@
 Documentação Oficial da API do OlimpoPay
 
-Direitos Reservadoos: [OlimpoPay](https://olimpopay.com.br/)
+Direitos Reservados: [OlimpoPay](https://olimpopay.com.br/)
